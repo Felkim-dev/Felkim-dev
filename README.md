@@ -6,10 +6,10 @@ I'm a Computer Science student at **Yachay Tech University** in Ecuador. I’m p
 
 - 🔹 Languages: Python, C++ (learning), Java (learning), SQL (learning)
 - 🌐 Interests: Full-stack development, Game development, Backend systems
-- 🧠 Tools & Technologies: Git, SQLite, Visual Studio, Linux
+- 🧠 Tools & Technologies: Git, SQL, Visual Studio, Linux
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sqlite,git,html,css,js&theme=light" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,git&theme=light" alt="Tech stack icons" />
 </p>
 
 ## 🚧 Current Projects
