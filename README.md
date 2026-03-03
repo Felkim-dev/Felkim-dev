@@ -9,7 +9,7 @@ I'm a Computer Science student at **Yachay Tech University** in Ecuador. I’m p
 - 🧠 Tools & Technologies: Git, SQL, Linux
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,C#&theme=light" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,cs&theme=light" alt="Tech stack icons" />
 </p>
 
 ## 🚧 Current Projects
@@ -25,15 +25,3 @@ I'm always open to:
 - Contributing to open-source repositories
 
 📫 Feel free to explore my repos and reach out!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felkim-dev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felkim-dev&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
